@@ -1,92 +1,163 @@
 {
-  "restaurant": "Delicious Eats",
   "categories": {
     "snack": [
       {
-        "name": "French Fries",
-        "price": 3.99,
-        "description": "Crispy and golden french fries."
+        "name": "Fruit Salad",
+        "price": 5
       },
       {
-        "name": "Chicken Wings",
-        "price": 7.99,
-        "description": "Spicy buffalo chicken wings."
+        "name": "Ice Cream",
+        "price": 1
       },
       {
-        "name": "Onion Rings",
-        "price": 4.99,
-        "description": "Crispy and flavorful onion rings."
-      },
-      {
-        "name": "Nachos",
-        "price": 6.99,
-        "description": "Tortilla chips topped with cheese, salsa, and guacamole."
+        "name": "Popcorn",
+        "price": 2
       }
     ],
     "meal": [
       {
-        "name": "Grilled Chicken Breast",
-        "price": 12.99,
-        "description": "Juicy grilled chicken breast served with vegetables and mashed potatoes."
+        "name": "Buttered Noodles",
+        "price": 5
       },
       {
-        "name": "Beef Burger",
-        "price": 10.99,
-        "description": "Classic beef burger with lettuce, tomato, and cheese."
+        "name": "Teriyaki Chicken",
+        "price": 7
       },
       {
-        "name": "Pasta Alfredo",
-        "price": 11.99,
-        "description": "Creamy fettuccine pasta with Alfredo sauce."
-      },
-      {
-        "name": "Fish and Chips",
-        "price": 13.99,
-        "description": "Crispy battered fish served with fries and tartar sauce."
+        "name": "Noodles with Shrimp",
+        "price": 7
       }
     ],
-    "breakfast": [
+    "side": [
       {
-        "name": "Pancakes",
-        "price": 6.99,
-        "description": "Fluffy pancakes served with maple syrup and butter."
+        "name": "Hummus",
+        "price": 3
       },
       {
-        "name": "Eggs Benedict",
-        "price": 9.99,
-        "description": "Poached eggs with Canadian bacon on an English muffin, topped with hollandaise sauce."
+        "name": "Salad",
+        "price": 3
       },
       {
-        "name": "Avocado Toast",
-        "price": 8.99,
-        "description": "Toasted bread topped with mashed avocado, tomatoes, and feta cheese."
+        "name": "Fries",
+        "price": 4
       },
       {
-        "name": "Breakfast Burrito",
-        "price": 7.99,
-        "description": "Scrambled eggs, sausage, cheese, and veggies wrapped in a tortilla."
+        "name": "Quick Soup",
+        "price": 1
       }
     ],
     "beverage": [
       {
-        "name": "Iced Coffee",
-        "price": 3.99,
-        "description": "Refreshing iced coffee with milk and sugar."
+        "name": "Water",
+        "price": 1,
+        "description": "Coca Cola"
+      },
+      {
+        "name": "Coke",
+        "price": 1,
+        "description": "Coca Cola"
       },
       {
         "name": "Fresh Orange Juice",
-        "price": 2.99,
-        "description": "100% pure orange juice, freshly squeezed."
+        "price": 5
       },
       {
-        "name": "Mango Smoothie",
-        "price": 4.99,
-        "description": "Creamy mango smoothie with a hint of tropical flavors."
+        "name": "Turkish Tea",
+        "price": 3
+      },
+      {
+        "name": "Turkish Coffee",
+        "price": 3
+      },
+      {
+        "name": "Iced Tea",
+        "price": 1
       },
       {
         "name": "Hot Chocolate",
-        "price": 3.99,
-        "description": "Rich and creamy hot chocolate with marshmallows."
+        "price": 1
+      },
+      {
+        "name": "Coffee",
+        "price": 2
+      },
+
+      {
+        "name": "Gatorade",
+        "price": 1
+      }
+    ],
+    "breakfast": [
+      {
+        "name": "Menemen",
+        "price": 5
+      },
+      {
+        "name": "Omelet",
+        "price": 3
+      },
+      {
+        "name": "Hashbrown",
+        "price": 1
+      },
+      {
+        "name": "Pancake",
+        "price": 5
+      },
+      {
+        "name": "Crepe with Nutella",
+        "price": 5
+      },
+      {
+        "name": "Bacon and Eggs",
+        "price": 2
+      },
+      {
+        "name": "French Toast",
+        "price": 3
+      },
+      {
+        "name": "Scrambled Eggs",
+        "price": 1
+      },
+      {
+        "name": "Breakfast Burrito",
+        "price": 5
+      },
+      {
+        "name": "Bagel with Cream Cheese",
+        "price": 2
+      },
+      {
+        "name": "Oatmeal",
+        "price": 3
+      }
+    ],
+    "lovebreak": [
+      {
+        "name": "Kiss",
+        "price": 1,
+        "description": "Juicy grilled chicken breast served with vegetables and mashed potatoes."
+      },
+      {
+        "name": "Cuddles",
+        "price": 2,
+        "description": "Juicy grilled chicken breast served with vegetables and mashed potatoes."
+      },
+      {
+        "name": "Snuggles",
+        "price": 2,
+        "description": "Classic beef burger with lettuce, tomato, and cheese."
+      },
+      {
+        "name": "Handjob",
+        "price": 5,
+        "description": "Classic beef burger with lettuce, tomato, and cheese."
+      },
+      {
+        "name": "Blowjob",
+        "price": 6,
+        "description": "Classic beef burger with lettuce, tomato, and cheese."
       }
     ]
   }
